@@ -1,0 +1,22 @@
+body,#btn {
+	margin: 0px;
+	padding: 0px;
+}
+
+#moves {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin-top:	25%;
+}
+
+button {
+	margin: 12px; 
+	width: 100px;
+	height: 30px;
+	
+}
+
+
+
